@@ -12,9 +12,9 @@ pygments: true
 title : My Bootstrap
 tagline: Looks like all the others but this one is mine
 author :
-  name : Scopey Scopey
+  name : scopey
   email : scopey@not.public.yet
-  github : username
+  github : scopey
   twitter : username
   feedburner : feedname
 
